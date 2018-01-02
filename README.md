@@ -1,7 +1,7 @@
 # lubuntu Documentation 
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Learning%20about%20&#64;lubuntudesktop%20on&url=https://docs.lubuntu.net&hashtags=Linux,OpenSource,lubuntu)
 
-The [lubuntu/light Ubuntu](https://lubuntu.net) documentation supports users to get [lubuntu installed](/lubuntu_installation.md). Learn about [lubuntu releases](/releases/Readme.md), advantages of lubuntu compared to other operating systems, [lubuntu tools](lubuntu_installed_tools.md), its [applications](lubuntu_applications.md), and advanced [alternative installation instructions for very old PCs](lubuntu_installation_on_old_computers.md).
+The [lubuntu/light Ubuntu](https://lubuntu.net) documentation supports users to get [lubuntu installed](/lubuntu_installation.md). Learn about [lubuntu releases](/releases/Readme.md), advantages of lubuntu compared to other operating systems, [lubuntu tools](lubuntu_installed_tools.md), its [applications](lubuntu_applications.md), and advanced [alternative installation instructions for very old PCs](lubuntu_installation_on_old_computers.md). The content of this site is freely licensed and maintained by a community of Lightweight Linux fans.
 
 ## About lubuntu
 lubuntu is a fast and lightweight operating system with a clean and easy-to-use user interface. The core of the system is based on Linux and Ubuntu. Lubuntu uses the minimal desktop LXDE, and a selection of light applications. Because of this, Lubuntu has very low hardware requirements.
